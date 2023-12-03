@@ -1,0 +1,17 @@
+footer {
+    height: 70px;
+    background-color: #50806B;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+    width: 100%;
+}
+
+footer a {
+    color: var(--title-pink);
+    text-decoration: underline;
+    font-size: 25px;
+}
